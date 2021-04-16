@@ -1,1 +1,3 @@
 # SENA-project
+The main reason that motivates many to use Twitter is that, when a hashtag is used in a Tweet, it becomes linked to all of the other Tweets that include it.  The hashtags of twitter have very much influence on the decisions, the views, the perspectives of people.   Analysis of these hashtags by forming a network will be very much helpful to predict things at the end of the day. 
+     One of the biggest issue to be resolved today in India is the “Farmer’s Protest”.  So, this project aims at analysing the hashtags that are related to “Farmer’s Protest” on Twitter using the popular network analysing tool, “Gephi”.
